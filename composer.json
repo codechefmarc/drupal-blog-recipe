@@ -1,0 +1,8 @@
+{
+  "name": "codechefmarc/drupal-blog-recipe",
+  "description": "A Drupal recipe that creates a blog",
+  "type": "drupal-custom-recipe",
+  "require": {
+
+  }
+}
